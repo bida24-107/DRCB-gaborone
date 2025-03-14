@@ -65,7 +65,10 @@ padding: 20px;
 max-width: 800px;
 margin: 0 auto;
 }
-
+.custom-card {
+  background-color: #ffcc00; /* Custom yellow */
+  color: black; /* Ensures text is readable */
+}
 
 main img {
 
